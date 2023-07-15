@@ -577,6 +577,21 @@ function hmrAccept(bundle /*: ParcelRequire */ , id /*: string */ ) {
 var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 var _lodash = require("lodash");
 var _lodashDefault = parcelHelpers.interopDefault(_lodash);
+const obj = {
+    a: 1,
+    b: 2,
+    c: 3
+};
+const { a, b } = obj;
+console.log(a, b);
+const { c } = obj;
+console.log(c);
+const { x = 4 } = obj;
+console.log(x);
+const { c: test } = obj; // c를 할당
+console.log(test);
+const { c, ...rest } = obj; // c 제외
+console.log(c, rest);
 
 },{"lodash":"3qBDj","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}],"3qBDj":[function(require,module,exports) {
 var global = arguments[3];
