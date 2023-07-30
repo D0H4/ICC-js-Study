@@ -1,5 +1,3 @@
-const { sum } = require("lodash")
-
 class Kpop {
     constructor(singerName, releaseDate, members) {
         this.singerName = singerName
@@ -10,6 +8,9 @@ class Kpop {
         [this.singerName, this.releaseDate, this.members] = value.split(' ')
     }
 }
+
+const k_pop = new Kpop()
+k_pop.reset = "OHMYGIRL 2023-07-24 6"
 
 class SummerComes extends Kpop {
     constructor(leaderName, singerName, releaseDate, members) {
@@ -22,7 +23,6 @@ class SummerComes extends Kpop {
 }
 
 const summerComes = new SummerComes('Hyojung')
-summerComes.sing()
-summerComes.reset = "OHMYGIRL 2023-07-24 6"
 
+console.log(k_pop)
 console.log(summerComes)

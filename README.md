@@ -26,6 +26,9 @@ class Kpop {
     }
 }
 
+const k_pop = new Kpop()
+k_pop.reset = "OHMYGIRL 2023-07-24 6"
+
 class SummerComes extends Kpop {
     constructor(leaderName, singerName, releaseDate, members) {
         super(singerName, releaseDate, members)
@@ -37,8 +40,7 @@ class SummerComes extends Kpop {
 }
 
 const summerComes = new SummerComes('Hyojung')
-summerComes.sing()
-summerComes.reset = "OHMYGIRL 2023-07-24 6"
 
+console.log(k_pop)
 console.log(summerComes)
 ```
