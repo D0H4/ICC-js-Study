@@ -1,3 +1,5 @@
+const { sum } = require("lodash")
+
 class Kpop {
     constructor(singerName, releaseDate, members) {
         this.singerName = singerName

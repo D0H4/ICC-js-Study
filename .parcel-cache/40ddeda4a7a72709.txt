@@ -1,6 +1,6 @@
-6979
+6980
 100D:\Coding\Web\study\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\utils.js133344174537096415 0
-32D:\Coding\Web\study\package.json133344194799957784 0
+32D:\Coding\Web\study\package.json133351736970929411 0
 42D:\Coding\Web\study\node_modules\commander133344174496960578 1
 83D:\Coding\Web\study\node_modules\caniuse-lite\data\features\css-overflow-overlay.js133344174538992417 0
 103D:\Coding\Web\study\node_modules\@parcel\optimizer-svgo\node_modules\mdn-data\css\selectors.schema.json133344174519680885 0
@@ -22,7 +22,7 @@
 55D:\Coding\Web\study\node_modules\lodash\fp\castArray.js133344167137022071 0
 65D:\Coding\Web\study\node_modules\@parcel\packager-js\lib\utils.js133344174518813207 0
 86D:\Coding\Web\study\node_modules\@swc\helpers\_\_interop_require_wildcard\package.json133344174541455828 0
-37D:\Coding\Web\study\package-lock.json133344174559260342 0
+37D:\Coding\Web\study\package-lock.json133351736894028037 0
 49D:\Coding\Web\study\node_modules\type-fest\source133344174496950602 1
 50D:\Coding\Web\study\node_modules\@msgpackr-extract133344174558582152 1
 30D:\Coding\Web\study\.gitignore133344176132435136 0
@@ -32,7 +32,7 @@
 113D:\Coding\Web\study\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm_bg.wasm133344174535156484 0
 58D:\Coding\Web\study\node_modules\lodash\fp\differenceBy.js133344167137428932 0
 61D:\Coding\Web\study\node_modules\css-tree\lib\utils\string.js133344174539880039 0
-24D:\Coding\Web\study\dist133351728994481608 1
+24D:\Coding\Web\study\dist133351737733336431 1
 70D:\Coding\Web\study\node_modules\caniuse-lite\dist\unpacker\feature.js133344174541425901 0
 40D:\Coding\Web\study\node_modules\is-glob133344174456697859 1
 76D:\Coding\Web\study\node_modules\caniuse-lite\data\features\css-when-else.js133344174539830171 0
@@ -45,7 +45,7 @@
 51D:\Coding\Web\study\node_modules\lodash\fp\array.js133344167136870039 0
 52D:\Coding\Web\study\node_modules\lodash\functions.js133344167137957522 0
 38D:\Coding\Web\study\node_modules\@lmdb133344174558582152 1
-30D:\Coding\Web\study\index.html133344231385246295 0
+30D:\Coding\Web\study\index.html133351735523921200 0
 72D:\Coding\Web\study\node_modules\@swc\helpers\cjs\_wrap_native_super.cjs133344174525376958 0
 52D:\Coding\Web\study\node_modules\lodash\fp\reject.js133344167140628935 0
 52D:\Coding\Web\study\node_modules\lodash\fp\dissoc.js133344167137438916 0
@@ -74,7 +74,8 @@
 44D:\Coding\Web\study\node_modules\timsort\src133344174461524949 1
 53D:\Coding\Web\study\node_modules\lodash\fp\countBy.js133344167137289313 0
 62D:\Coding\Web\study\node_modules\@parcel\transformer-babel\lib133344174499628709 1
-27D:\Coding\Web\study\main.js133351728993670153 0
+27D:\Coding\Web\study\main.js133351737727124438 0
+29D:\Coding\Web\study\README.md133351734020842484 0
 48D:\Coding\Web\study\node_modules\lodash\clamp.js133344167137079872 0
 84D:\Coding\Web\study\node_modules\csso\node_modules\css-tree\lib\syntax\node\index.js133344174539491082 0
 70D:\Coding\Web\study\node_modules\@swc\helpers\_\_sliced_to_array_loose133344174542024251 1
@@ -206,7 +207,6 @@
 90D:\Coding\Web\study\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs133344174544173966 0
 39D:\Coding\Web\study\node_modules\base-x133344174457605431 1
 68D:\Coding\Web\study\node_modules\css-tree\cjs\syntax\node\Atrule.cjs133344174456134276 0
-95D:\Coding\Web\study\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133344174495514445 0
 41D:\Coding\Web\study\node_modules\boolbase133344174452365274 1
 56D:\Coding\Web\study\node_modules\lodash\fp\sampleSize.js133344167140738616 0
 45D:\Coding\Web\study\node_modules\browserslist133344174462641960 1
@@ -1704,6 +1704,7 @@
 83D:\Coding\Web\study\node_modules\posthtml\node_modules\posthtml-parser\package.json133344174496182659 0
 46D:\Coding\Web\study\node_modules\lodash\tap.js133344167141097667 0
 97D:\Coding\Web\study\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.d.ts133344174496940639 0
+95D:\Coding\Web\study\node_modules\posthtml\node_modules\posthtml-parser\dist\location-tracker.js133344174495514445 0
 52D:\Coding\Web\study\node_modules\posthtml\lib\api.js133344174454807813 0
 51D:\Coding\Web\study\node_modules\lodash\debounce.js133344167137349154 0
 89D:\Coding\Web\study\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133344174521813046 0
@@ -1950,7 +1951,6 @@
 57D:\Coding\Web\study\node_modules\lodash\takeRightWhile.js133344167141077721 0
 64D:\Coding\Web\study\node_modules\caniuse-lite\data\regions\SL.js133344174548868190 0
 59D:\Coding\Web\study\node_modules\node-addon-api\except.gypi133344174456528309 0
-71D:\Coding\Web\study\node_modules\json-parse-even-better-errors\index.js133344174451856802 0
 53D:\Coding\Web\study\node_modules\msgpackr\unpack.d.ts133344174520957475 0
 109D:\Coding\Web\study\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\node\Function.js133344174525337058 0
 69D:\Coding\Web\study\node_modules\node-addon-api\napi-inl.deprecated.h133344174459470443 0
@@ -2625,8 +2625,8 @@
 58D:\Coding\Web\study\node_modules\lodash\_baseAggregator.js133344167135114084 0
 74D:\Coding\Web\study\node_modules\@parcel\optimizer-swc\src\SwcOptimizer.js133344174473036212 0
 54D:\Coding\Web\study\node_modules\lodash\_baseAssign.js133344167135124070 0
-56D:\Coding\Web\study\node_modules\lodash\_baseAssignIn.js133344167135124070 0
 72D:\Coding\Web\study\node_modules\caniuse-lite\data\features\innertext.js133344174545430602 0
+56D:\Coding\Web\study\node_modules\lodash\_baseAssignIn.js133344167135124070 0
 59D:\Coding\Web\study\node_modules\lodash\_baseAssignValue.js133344167135144007 0
 64D:\Coding\Web\study\node_modules\caniuse-lite\data\regions\GR.js133344174544582860 0
 88D:\Coding\Web\study\node_modules\@swc\helpers\_\_initializer_warning_helper\package.json133344174541395996 0
@@ -3605,6 +3605,7 @@
 83D:\Coding\Web\study\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg133344174534328693 1
 57D:\Coding\Web\study\node_modules\json5\dist\index.min.mjs133344174464347404 0
 75D:\Coding\Web\study\node_modules\json-parse-even-better-errors\CHANGELOG.md133344174454548501 0
+71D:\Coding\Web\study\node_modules\json-parse-even-better-errors\index.js133344174451856802 0
 73D:\Coding\Web\study\node_modules\json-parse-even-better-errors\LICENSE.md133344174455615654 0
 83D:\Coding\Web\study\node_modules\@parcel\core\test\fixtures\plugins\local-plugin.js133344174534488271 0
 75D:\Coding\Web\study\node_modules\json-parse-even-better-errors\package.json133344174452494924 0
@@ -4177,7 +4178,7 @@
 82D:\Coding\Web\study\node_modules\csso\node_modules\css-tree\lib\parser\sequence.js133344174540308895 0
 72D:\Coding\Web\study\node_modules\css-tree\cjs\syntax\node\Identifier.cjs133344174519242058 0
 78D:\Coding\Web\study\node_modules\csso\node_modules\css-tree\lib\lexer\error.js133344174539032340 0
-35D:\Coding\Web\study\dist\index.html133351728970157585 0
+35D:\Coding\Web\study\dist\index.html133351737733037246 0
 90D:\Coding\Web\study\node_modules\csso\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133344174539171931 0
 83D:\Coding\Web\study\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib133344174522072360 1
 80D:\Coding\Web\study\node_modules\csso\node_modules\css-tree\lib\lexer\generic.js133344174539221796 0
@@ -6938,7 +6939,7 @@
 80D:\Coding\Web\study\node_modules\@babel\highlight\node_modules\has-flag\index.js133344174494267784 0
 84D:\Coding\Web\study\node_modules\@babel\highlight\node_modules\color-name\.npmignore133344174494277758 0
 82D:\Coding\Web\study\node_modules\@babel\highlight\node_modules\color-name\index.js133344174495993162 0
-46D:\Coding\Web\study\dist\index.63aff760.js.map133351728994471639 0
+46D:\Coding\Web\study\dist\index.63aff760.js.map133351737733326475 0
 83D:\Coding\Web\study\node_modules\@babel\highlight\node_modules\color-name\README.md133344174495005803 0
 81D:\Coding\Web\study\node_modules\@babel\highlight\node_modules\color-name\test.js133344174496362180 0
 89D:\Coding\Web\study\node_modules\@babel\highlight\node_modules\color-convert\CHANGELOG.md133344174494277758 0
@@ -6977,4 +6978,4 @@
 42D:\Coding\Web\study\node_modules\.bin\svgo133344174552388788 0
 46D:\Coding\Web\study\node_modules\.bin\svgo.cmd133344174552388788 0
 64D:\Coding\Web\study\node_modules\.bin\update-browserslist-db.cmd133344174552608206 0
-42D:\Coding\Web\study\dist\index.63aff760.js133351728994421793 0
+42D:\Coding\Web\study\dist\index.63aff760.js133351737733286586 0
