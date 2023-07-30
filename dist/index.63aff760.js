@@ -598,6 +598,12 @@ const summerComes = new SummerComes("Hyojung");
 summerComes.sing();
 summerComes.reset = "OHMYGIRL 2023-07-24 6";
 console.log(summerComes);
+class User {
+    static staticMethod() {
+        alert(this === User);
+    }
+}
+User.staticMethod(); // true
 
 },{"6ce38074508bc265":"3qBDj"}],"3qBDj":[function(require,module,exports) {
 var global = arguments[3];
