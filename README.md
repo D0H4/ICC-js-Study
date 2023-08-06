@@ -1,46 +1,56 @@
-# Week 4
+# Week 5
 
-## 정적 메서드
-정적 메서드는 특정 클래스의 인스턴스가 아닌 클래스 전체에 필요한 기능을 만들 때 사용할 수 있다.
-
+## 숙제 1
 ```
-class User {
-    static staticMethod() {
-        alert(this === User);
-    }
-}
+const numbers = [4,102,2,30,13,20]
 
-User.staticMethod(); // true
+numbers.push(32)
+
+console.log(numbers)
+
+const numSum = numbers.reduce((acc, cur) => {
+	return acc + cur
+})
+
+console.log(numSum)
 ```
 
-## Kpop Code
+## 숙제 2
 ```
-class Kpop {
-    constructor(singerName, releaseDate, members) {
-        this.singerName = singerName
-        this.releaseDate = releaseDate
-        this.members = members
-    }
-    set reset(value) {
-        [this.singerName, this.releaseDate, this.members] = value.split(' ')
-    }
-}
+const numbers = [4,102,2,30,13,20]
 
-const k_pop = new Kpop()
-k_pop.reset = "OHMYGIRL 2023-07-24 6"
+numbers.push(32)
 
-class SummerComes extends Kpop {
-    constructor(leaderName, singerName, releaseDate, members) {
-        super(singerName, releaseDate, members)
-        this.leaderName = leaderName;
-    }
-    sing() {
-        return console.log("귀를 귀울여 듣고 싶은 맘이 설레이잖아")
-    }
-}
+numbers.sort((a, b) => {
+	return a - b
+})
 
-const summerComes = new SummerComes('Hyojung')
+console.log(numbers)
 
-console.log(k_pop)
-console.log(summerComes)
+numbers.forEach(item => console.log(item))
+```
+## 숙제 3
+```
+const users = [
+	{name: '윤병현', age: 24, class: '1반'},
+	{name: '문채현',  age: 22, class: '1반'},
+	{name: '최진영',  age: 21, class: '2반'},
+  	{name: '이윤수', age: 20, class: '2반'}
+]
+
+const userData = users.filter(users => {
+	return users.age > 21 && users.class === "1반"
+})
+
+console.log(userData)
+
+const userData1 = users.map(user => {
+	return {
+		...user,
+		email: '1234@naver.com',
+		tel: '010-1234-5678'
+	}
+})
+
+console.log(userData1)
 ```
